@@ -1,0 +1,51 @@
+Country,Role,Skill,Platform,Rate_per_hr,Experience
+India,Annotator,NLP,Upwork,5,Entry
+India,Annotator,Image,Fiverr,6,Entry
+India,Data Labeler,Audio,Upwork,7,Mid
+India,Annotator,Video,Freelancer,6,Mid
+India,Annotator,NLP,Upwork,8,Mid
+India,Data Labeler,Image,Fiverr,5,Entry
+India,Annotator,Text,Upwork,6,Entry
+India,Annotator,Audio,Fiverr,7,Mid
+India,Annotator,NLP,Freelancer,9,Senior
+India,Data Labeler,Image,Upwork,6,Entry
+Philippines,Annotator,Image,Upwork,8,Entry
+Philippines,Annotator,Audio,Fiverr,9,Mid
+Philippines,Data Labeler,NLP,Upwork,10,Mid
+Philippines,Annotator,Video,Freelancer,9,Mid
+Philippines,Annotator,Text,Upwork,11,Senior
+Philippines,Data Labeler,Image,Fiverr,8,Entry
+Philippines,Annotator,Audio,Upwork,10,Mid
+Philippines,Annotator,NLP,Freelancer,12,Senior
+Philippines,Data Labeler,Image,Upwork,9,Mid
+Philippines,Annotator,Text,Fiverr,8,Entry
+USA,Annotator,NLP,Upwork,35,Mid
+USA,Annotator,Medical,Freelancer,50,Senior
+USA,Data Labeler,Image,Upwork,30,Entry
+USA,Annotator,Legal,Freelancer,60,Senior
+USA,Annotator,Audio,Fiverr,40,Mid
+USA,Data Labeler,NLP,Upwork,45,Senior
+USA,Annotator,Video,Freelancer,38,Mid
+USA,Annotator,Text,Upwork,32,Entry
+USA,Annotator,Medical,Freelancer,55,Senior
+USA,Data Labeler,Image,Fiverr,28,Entry
+UK,Annotator,NLP,Upwork,30,Mid
+UK,Annotator,Legal,Freelancer,48,Senior
+UK,Data Labeler,Image,Fiverr,25,Entry
+UK,Annotator,Audio,Upwork,28,Mid
+UK,Annotator,Text,Freelancer,35,Mid
+UK,Data Labeler,NLP,Upwork,40,Senior
+UK,Annotator,Video,Fiverr,27,Entry
+UK,Annotator,Medical,Freelancer,50,Senior
+UK,Data Labeler,Image,Upwork,26,Entry
+UK,Annotator,Text,Fiverr,29,Mid
+Germany,Annotator,NLP,Upwork,32,Mid
+Germany,Annotator,Legal,Freelancer,52,Senior
+Germany,Data Labeler,Image,Fiverr,28,Entry
+Germany,Annotator,Audio,Upwork,30,Mid
+Germany,Annotator,Medical,Freelancer,55,Senior
+Germany,Data Labeler,NLP,Upwork,42,Senior
+Germany,Annotator,Video,Fiverr,29,Entry
+Germany,Annotator,Text,Freelancer,34,Mid
+Germany,Data Labeler,Image,Upwork,27,Entry
+Germany,Annotator,NLP,Fiverr,31,Mid
